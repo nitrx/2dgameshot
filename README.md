@@ -9,3 +9,5 @@ Title:2DShotgame Demo
 <br>矢印キー - 移動
 <br>Fキー - 弾を撃つ
 <br>Spaceキー - ジャンプ
+
+<br>https://nitrx.github.io/2dgameshot/
